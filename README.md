@@ -19,7 +19,7 @@
   <img align="center" alt="tiago-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="tiago-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg">
   <img align="center" alt="Tiago-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="tiago-pic" height="150" style="border-radius:50px;" src="https://dragon.img2go.com/pt/download-file/83229d8d-a061-448f-915b-73fa4f65ad03/0be0c630-81a5-413a-9b35-a1d59271fdc8?qr=true">
+  <img align="left" alt="tiago-pic" height="150" style="border-radius:50px;" src="https://dragon.img2go.com/pt/download-file/83229d8d-a061-448f-915b-73fa4f65ad03/0be0c630-81a5-413a-9b35-a1d59271fdc8?qr=true">
 </div>
   
   ##
