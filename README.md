@@ -1,10 +1,12 @@
-### Olá, me chamo Tiago Ferrari e sou Desenvolvedor de Software! 👋
+# Olá, sou Tiago Ferrari e estou trilhando meu caminho para me tornar um Desenvolvedor de Software! 👋
 
-- 🔭 Hoje trabalho como Desenvolvedor de Software - Full Stack - utilizando as linguagens e frameworks HTML/CSS, Javascript, React.js e Node.js. 
-- 🌱 Estudando Bacharel em Tecnologia na Univesp e estou na turma de Formação em Tecnologia da Escola DNC, ambos de forma EAD. 
-- 👯 Procurando colaborar formalmente para a área de Desenvolvimento, além dos projetos pessoais.
-- ⚡  Então, falem comigo através dos contatos informados aqui no GitHub.
-- 😄 Ele/Dele
+- 🔭 Atualmente, desempenho o papel de Analista de Suporte e estou animado com a perspectiva de garantir minha primeira posição como Desenvolvedor de Software. Possuo experiência em diversas linguagens de programação, como Java, C#, Flutter e Python, além de ter trabalhado com bancos de dados como Postgres e Sql Server. No momento, estou concentrado no desenvolvimento Front-End, seguindo em direção ao Full Stack, e estou dedicando meu tempo para aprofundar meus conhecimentos em Javascript/Typescript, Angular, React.js, Node.js e MongoDB.
+
+- 🌱 Estou matriculado no Bacharelado em Tecnologia da Informação na Univesp e, de forma online, estou cursando a Formação em Tecnologia pela Escola DNC. Essa combinação de ensino à distância me proporciona uma abordagem abrangente e flexível para aprimorar minhas habilidades.
+
+- 👯 Sinta-se à vontade para entrar em contato! Estou mais do que disposto a colaborar e compartilhar meu conhecimento, por mais modesto que seja. Toda oportunidade de aprendizado mútuo é valiosa para mim.
+
+- ⚡ Vamos em frente e superar desafios juntos! Estou pronto para a próxima fase da minha jornada no mundo da programação.
 
 <div align="center">
   <a href="https://github.com/tiagoferrari-projects/">
